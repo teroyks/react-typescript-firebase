@@ -6,7 +6,7 @@ Simple React app, using Typescript, to be hosted on Firebase
 
     npm init
     npm install react react-dom
-    npm install --dev parcel-bundler @types/react @types/react-dom
+    npm install --save-dev parcel-bundler parcel-plugin-typescript @types/react @types/react-dom
     mkdir src
 
 Create initial files:
