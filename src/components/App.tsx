@@ -1,5 +1,5 @@
 import * as React from 'react'
 
-const App: React.SFC = () => <div>Hello</div>
+const App: React.FunctionComponent = () => <div>Hello!</div>
 
 export default App
